@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @henrykalolo
 - 👀 I’m interested in php
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on laravel php framework
-- 📫 How to reach me henrymagoola@gmail.com
+- 🌱 I’m currently learning management information sytems
+- 💞️ I’m looking to learn more on web application development
+- 📫 How to reach me henrymagoola@gmail.com @h3nrykalolo Twitter
 
 <!---
 henrykalolo/henrykalolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
